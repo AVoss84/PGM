@@ -1,2 +1,2 @@
-# PGM
-Probabilistic Graphical Models course  
+# Probabilistic Graphical Models course on Coursera
+Course material of 'Probabilistic Graphical Models' course on Coursera
